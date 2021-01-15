@@ -1,0 +1,108 @@
+body{
+    background-image: url("kepek/hatter2.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    text-shadow: 2px 2px 5px skyblue ;
+}
+
+p{
+    font-size: 15px;
+    color: white;
+}
+
+.button {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: rgb(53, 83, 165); 
+    color: black; 
+    border: 2px solid;
+} 
+.button1:hover {
+    background-color: rgb(4, 0, 255);
+    color: white;
+}
+
+.button2 {
+    background-color: rgba(212, 144, 221, 0.479); 
+    color: black; 
+    border: 2px solid;
+}
+.button2:hover {
+    background-color: purple;
+    color: white;
+}
+
+.button3 {
+    background-color: rgba(209, 109, 192, 0.63); 
+    color: black; 
+    border: 2px solid;
+} 
+.button3:hover {
+    background-color: violet;
+    color: white;
+}
+
+.button4 {
+    background-color: rgb(199, 108, 150); 
+    color: black; 
+    border: 2px solid ;
+}
+.button4:hover {
+    background-color: pink;
+    color: white;
+}
+
+.button5 {
+    background-color: rgba(247, 190, 136, 0.644); 
+    color: black; 
+    border: 2px solid ;
+}
+  
+.button5:hover {
+    background-color: orange;
+    color: white;
+}
+
+.button6 {
+    background-color: rgba(187, 178, 56, 0.733); 
+    color: black; 
+    border: 2px solid;
+}
+.button6:hover {
+    background-color: green;
+    color: white;
+}
+
+.button7 {
+    background-color: rgba(199, 81, 179, 0.644); 
+    color: black; 
+    border: 2px solid;
+}
+.button7:hover {
+    background-color: rgb(187, 76, 128);
+    color: white;
+}
+
+.button8 {
+    background-color: rgba(202, 73, 127, 0.733); 
+    color: black; 
+    border: 2px solid;
+}
+.button8:hover {
+    background-color:rgb(134, 12, 69);
+    color: white;
+}
