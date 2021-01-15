@@ -6,12 +6,12 @@ body{
 }
 
 h1{
-    font-size: 70px;
+    font-size: 50px;
     text-shadow: 2px 2px 5px skyblue ;
 }
 
 p{
-    font-size: 20px;
+    font-size: 15px;
     color: white;
 }
 
@@ -87,4 +87,22 @@ p{
     color: white;
 }
 
+.button7 {
+    background-color: rgba(199, 81, 179, 0.644); 
+    color: black; 
+    border: 2px solid;
+}
+.button7:hover {
+    background-color: rgb(187, 76, 128);
+    color: white;
+}
 
+.button8 {
+    background-color: rgba(202, 73, 127, 0.733); 
+    color: black; 
+    border: 2px solid;
+}
+.button8:hover {
+    background-color:rgb(134, 12, 69);
+    color: white;
+}
